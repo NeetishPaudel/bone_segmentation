@@ -1,0 +1,57 @@
+{
+  "original_segmented_mask": {
+    "filename": "tf_segmented_filled1.nii.gz",
+    "medial_lowest_point": {
+      "voxel": [366, 285, 109.5],
+      "world_mm": [-95.61, -25.21, -681.50]
+    },
+    "lateral_lowest_point": {
+      "voxel": [374, 275, 109.5],
+      "world_mm": [-102.56, -16.51, -681.50]
+    }
+  },
+  "fixed_expansion_2mm": {
+    "filename": "expanded_combined_mask_2mm.nii.gz",
+    "medial_lowest_point": {
+      "voxel": [366, 285, 110.5],
+      "world_mm": [-95.61, -25.21, -679.50]
+    },
+    "lateral_lowest_point": {
+      "voxel": [371, 277, 110.5],
+      "world_mm": [-99.95, -18.25, -679.50]
+    }
+  },
+  "fixed_expansion_4mm": {
+    "filename": "expanded_combined_mask_4mm.nii.gz",
+    "medial_lowest_point": {
+      "voxel": [366, 285, 111.5],
+      "world_mm": [-95.61, -25.21, -677.50]
+    },
+    "lateral_lowest_point": {
+      "voxel": [371, 277, 111.5],
+      "world_mm": [-99.95, -18.25, -677.50]
+    }
+  },
+  "randomized_expansion_2mm": {
+    "filename": "randomized_combined_mask_2mm.nii.gz",
+    "medial_lowest_point": {
+      "voxel": [366, 283, 109.5],
+      "world_mm": [-95.61, -23.47, -681.50]
+    },
+    "lateral_lowest_point": {
+      "voxel": [372, 275, 109.5],
+      "world_mm": [-100.82, -16.51, -681.50]
+    }
+  },
+  "randomized_expansion_4mm": {
+    "filename": "randomized_combined_mask_4mm.nii.gz",
+    "medial_lowest_point": {
+      "voxel": [365, 282, 110.5],
+      "world_mm": [-94.74, -22.60, -679.50]
+    },
+    "lateral_lowest_point": {
+      "voxel": [371, 279, 110.5],
+      "world_mm": [-99.95, -19.99, -679.50]
+    }
+  }
+}
